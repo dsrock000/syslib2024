@@ -19,9 +19,9 @@ my dogs
 3. Sandy
 
 fav foods
--tacos
--fries
--ice cream
+- tacos
+- fries
+- ice cream
 
 Here is a link to my outdated website: [dsrock0.wixsite.com] (https://dsrock0.wixsite.com/my-site)
 
