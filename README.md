@@ -4,7 +4,7 @@ I'm **excited** to try bold in markdown.
 
 Markdown seems *easier* to do italics than in html, so that's great! 
 
-Be careful when using the 'rm' or delete command in Linux. I was tired and accidentally deleted my project once. Some linux commands are intuitive like 'cp' for copy and others are not. 
+Be careful when using the `rm` or delete command in Linux. I was tired and accidentally deleted my project once. Some linux commands are intuitive like `cp` for copy and others are not. 
 
 A fun example code block:
 
