@@ -25,7 +25,7 @@ fav foods
 
 Here is a link to my outdated website: [dsrock0.wixsite.com] (https://dsrock0.wixsite.com/my-site)
 
-Here is a picture from work when we got to meet ![Justice Gorsuch] (https://dsrock0.wixsite.com/my-site/media?pgid=kl42e5uq-23eabb07-15de-45fe-8dfd-85cb752410e7)
+Here is a picture from work when we got to meet: ![Justice Gorsuch] (https://dsrock0.wixsite.com/my-site/media?pgid=kl42e5uq-23eabb07-15de-45fe-8dfd-85cb752410e7)
 
 ## I'll stick with the theme and add a Justice Gorsuch quote
 
