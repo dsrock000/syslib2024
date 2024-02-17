@@ -44,23 +44,7 @@ These 15 articles have been cited quite a few times!
 
 I thought it would be a good test to come up with a command that sorted the year of publication for each of these journals. 
 
-`grep -i "year = " scopus.bib | sort`
-
-     year = {2002},
-     year = {2010},
-     year = {2011},
-     year = {2012},
-     year = {2013},
-     year = {2017},
-     year = {2017},
-     year = {2017},
-     year = {2018},
-     year = {2018},
-     year = {2018},
-     year = {2019},
-     year = {2020},
-     year = {2021},
-     year = {2021},
+![image](https://github.com/dsrock000/syslib2024/blob/main/img/week6%20-%20grep4.png)
 
 
 
