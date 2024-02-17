@@ -11,7 +11,7 @@ I downloaded information on the 15 articles with the most citations. I uploaded 
      sed 's/ {//' | sed 's/},//' | \
      sort | uniq -c | sort`
 
-      `1 Computer
+      1 Computer
       1 Computers and Security
       1 Electronics (Switzerland)
       1 Future Generation Computer Systems
@@ -25,7 +25,7 @@ I downloaded information on the 15 articles with the most citations. I uploaded 
       1 Proceedings of the 11th USENIX Security Symposium
       1 Proceedings of the 6th International Symposium on Information, Computer and Communications Security, ASIACCS 2011
       1 Proceedings of the IEEE
-      1 SN Computer Science`
+      1 SN Computer Science
 
 
 ### Number of citations
