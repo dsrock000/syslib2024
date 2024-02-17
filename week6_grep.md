@@ -38,7 +38,7 @@ These 15 articles have been cited quite a few times!
     { sum += $2; } \
     END { print sum }'`
 
-`Total Citations: 13167`
+     Total Citations: 13167
 
 ### Year of Publication 
 
@@ -46,21 +46,21 @@ I thought it would be a good test to come up with a command that sorted the year
 
 `grep -i "year = " scopus.bib | sort`
 
-`year = {2002},
-        year = {2010},
-        year = {2011},
-        year = {2012},
-        year = {2013},
-        year = {2017},
-        year = {2017},
-        year = {2017},
-        year = {2018},
-        year = {2018},
-        year = {2018},
-        year = {2019},
-        year = {2020},
-        year = {2021},
-        year = {2021},`
+     year = {2002},
+     year = {2010},
+     year = {2011},
+     year = {2012},
+     year = {2013},
+     year = {2017},
+     year = {2017},
+     year = {2017},
+     year = {2018},
+     year = {2018},
+     year = {2018},
+     year = {2019},
+     year = {2020},
+     year = {2021},
+     year = {2021},
 
 
 
