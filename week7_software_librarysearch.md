@@ -37,5 +37,5 @@ A tool to retrieve this library information.
 
 `show 1`: displays first result. Change number to change which result to display. 
 
-![image](https://github.com/dsrock000/syslib2024/blob/main/img/week7 - yaz.png)
+![image](https://github.com/dsrock000/syslib2024/blob/main/img/week7-yaz.png)
 
