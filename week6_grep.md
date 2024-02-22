@@ -7,10 +7,15 @@ I downloaded information on the 15 articles with the most citations. I uploaded 
 
 ### Journals 
 
-`grep "journal =" scopus.bib | cut -d"=" -f2 | \
+```
+   grep "journal =" scopus.bib | cut -d"=" -f2 | \
      sed 's/ {//' | sed 's/},//' | \
-     sort | uniq -c | sort`
+     sort | uniq -c | sort
+```
 
+Results in:
+
+```
       1 Computer
       1 Computers and Security
       1 Electronics (Switzerland)
@@ -26,19 +31,25 @@ I downloaded information on the 15 articles with the most citations. I uploaded 
       1 Proceedings of the 6th International Symposium on Information, Computer and Communications Security, ASIACCS 2011
       1 Proceedings of the IEEE
       1 SN Computer Science
-
+```
 
 ### Number of citations
 
 These 15 articles have been cited quite a few times! 
 
-` grep -o "Cited by: [0-9]*" scopus.bib | \
+```
+  grep -o "Cited by: [0-9]*" scopus.bib | \
     awk -F":" \
     'BEGIN { printf "Total Citations: "} \
     { sum += $2; } \
-    END { print sum }'`
+    END { print sum }'
+```
 
-     Total Citations: 13167
+Results in:
+
+```
+Total Citations: 13167
+```
 
 ### Year of Publication 
 
