@@ -21,6 +21,7 @@ Z39.50 is standard protocol in libraries for sharing, querying, and retrieving b
 A tool to retrieve this library information. 
 
 `yaz-client`: Open Yaz
+
 `open saalck-uky.alma.exlibrisgroup.com:1921/01SAA_UKY`: Connect to library's OPAC or discovery service. 
 
 #### Example Find commands
