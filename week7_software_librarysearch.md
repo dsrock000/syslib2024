@@ -27,7 +27,9 @@ A tool to retrieve this library information.
 #### Example Find commands
 
 `f @and @attr 1=21 "cybersecurity" @attr 1=21 "python"`: Searches in the Subject heading and uses the @and to find multiple phrases or words. 
+
 `find @attr 1=4 "linux servers"`: Searches the phrase in the title. 
+
 `f @attr 1=1016 "linux commands"`: Searches the phrase in all fields. 
 
 
@@ -35,4 +37,5 @@ A tool to retrieve this library information.
 
 `show 1`: displays first result. Change number to change which result to display. 
 
+![image](https://github.com/dsrock000/syslib2024/blob/main/img/week7 - yaz.png)
 
