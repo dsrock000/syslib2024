@@ -10,7 +10,7 @@
 
 - Copy code to clipboard
 
-- use nano to create mylibrary.html file and copy HTML code
+- use nano to create mylibrary.html file and paste HTML code
 
 ### PHP file to search OPAC database
 
