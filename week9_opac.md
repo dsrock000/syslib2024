@@ -31,3 +31,11 @@
 - display results using command in picture below
 
 ![image](https://github.com/dsrock000/syslib2024/blob/main/img/week9-OPAC.png)
+
+## Reflections
+
+- It was a pretty straight forward week.
+- I did have to look back at steps from last week to connect to MySQL and select a database.
+- I couldn't figure out why my MySQL insert commands weren't working right.
+- I walked away and noticed a pending reboot when I came back.
+- I used the exact same command and it worked perfectly. 
