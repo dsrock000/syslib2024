@@ -41,3 +41,9 @@
 - Change ownership to www-data for Omeka directory `sudo chown -R www-data:www-data /var/www/html/omeka/files`
 
 - Visit http://34.125.169.53/omeka/ and complete setup of Omeka
+
+### Reflections
+
+- I haven't used Omeka before. I can see how it will work well in a library setting. 
+
+- I see all the lessons coming together. Surely there is a way to import the data of the books from previous assignments, but so far it alludes me. 
