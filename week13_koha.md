@@ -86,7 +86,7 @@ systemctl restart apache2
 - Koha is complicated and not easy to learn.
 - Koha Inventory was difficult to figure out on my own. I created records, but could never find them again, even when searching.
 - I could spend many more hours trying to learn and test in Koha. Since I have no Library background, a lot of the terminology goes over my head.
-- I couldn't check out anything because none of the items I created ever showed up on searches. I couldn't remember the item bar codes to check out equipment either.
+- I couldn't check out anything because none of the items I created ever showed up on searches. I see my items when using Koha from the regular view, but I don't see barcodes listed, so I can't check items out from patron view either. 
 - Something may not be setup right. I didn't understand what I was doing during Koha configuration. It started to come together once I started playing with Koha, but now I can't figure out what the issue could be. 
   
 
